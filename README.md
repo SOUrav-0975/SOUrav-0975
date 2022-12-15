@@ -1,4 +1,4 @@
-- 👋 Hi, I am sourav kumar.
+- 👋 Hi, I am Sourav Kumar.
 - 👀 I’m interested in coading
 - 🌱 I have learnt React js frontend devlopment!
 - 💞️ I’m looking for a job as a React Js Frontend Developer.
